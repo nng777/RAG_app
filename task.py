@@ -1,4 +1,6 @@
-"""1.Choose a book: Find a plain text version of a book that you would like to use as your knowledge base. You can find many free books on websites like Project Gutenberg.
+"""
+Build a RAG System
+1.Choose a book: Find a plain text version of a book that you would like to use as your knowledge base. You can find many free books on websites like Project Gutenberg.
 2.Utilize:
   2.1.langchain
   2.2.openai

@@ -3,7 +3,7 @@ Build a RAG System
 1.Choose a book: Find a plain text version of a book that you would like to use as your knowledge base. You can find many free books on websites like Project Gutenberg.
 2.Utilize:
   2.1.langchain
-  2.2.openai
+  2.2.gemini AI
   2.3.chromadb
   2.4.tiktoken
 3.Create a knowledge base: Create a file named book.txt and paste the content of the book into it.
